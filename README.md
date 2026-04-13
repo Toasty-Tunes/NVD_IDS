@@ -109,9 +109,11 @@ The model was trained on the combined feature set.
 ---
 
 ### 5.3 Confusion Matrix
-[[13637 2495]
-[ 2929 11450]]
 
+|                | Predicted Low | Predicted High |
+|----------------|--------------|----------------|
+| Actual Low     | 13,637       | 2,495          |
+| Actual High    | 2,929        | 11,450         |
 
 - True Positives: 11,450  
 - True Negatives: 13,637  
